@@ -1,24 +1,34 @@
-# Kindness Confession Front-End
-Frontend repo for the Kindness Confession site.  
-Built with Vue JS.  
+# kindness
 
-## Build and Deploy
-To "build" page for local dev
-```bash
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
 npm run serve
 ```
 
-To deploy application
-```bash
-npm run deploy
+### Compiles and minifies for production
+```
+npm run build
 ```
 
-## Author, Contributing and License
-Authors:
-- [Happy Haris](muhdharis1@gmail.com)
+### Run your tests
+```
+npm run test
+```
 
-Contibuting:  
-Feel free to contribute if you like! Please get in touch to learn about how to contribute!  
+### Lints and fixes files
+```
+npm run lint
+```
 
-License:  
-This repo is freely avail under MIT license.
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
